@@ -4,5 +4,6 @@ Gitを練習していきます。
 . Git commit
 
 . git status
+. git diff
 
 
