@@ -6,4 +6,4 @@ Gitを練習していきます。
 . git status
 . git diff
 
-
+. mod
